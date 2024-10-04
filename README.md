@@ -7,4 +7,4 @@ Contacta Con Cuervo
 <img src="https://telegra.ph/file/75ce1ab8dad03125527e1.jpg" width="250" height="250" alt="Nimodo83"/></a>
 
 ## `CREADO POR Cuervo-Team-Supreme` 
-<a href="https://github.com/Nimodo83.png"><img src="https://qu.ax/bwBW.jpg" width="250" height="250" alt="Nimodo83"/></a>
+<a href="https://github.com/Nimodo83.png"><img src="https://qu.ax/OYDS.jpeg" width="250" height="250" alt="Nimodo83"/></a>
