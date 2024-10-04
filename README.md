@@ -1,5 +1,4 @@
-<img src="https://telegra.ph/file/45b8728bc857935d08d26.mp4" width="400" height="230" alt="Nimodo83"/></a>
-
+>Bot Create By: Cuervo-Team-Supreme 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Rurushi-Bot+Create By:+Cuervo-Team-Supreme+✰✰✰✰✰">      
 </p>
 
