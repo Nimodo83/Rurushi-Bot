@@ -1,3 +1,5 @@
+<img src="https://telegra.ph/file/45b8728bc857935d08d26.mp4" width="250" height="250" alt="sinombre913"/></a>
+
 Ya Próximamente Rurushi Ru Bot Estará En Github :)
 
 (si eres dueño de un host y quieres a Rurushi-Bot puedes comunicarte por mi no hay problema)
