@@ -1,5 +1,5 @@
 >Bot Create By: Cuervo-Team-Supreme 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Rurushi-Bot+Create By:+Cuervo-Team-Supreme+✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Rurushi-Bot+Create+By:+Cuervo-Team-Supreme+✰✰✰✰✰">      
 </p>
 
 
