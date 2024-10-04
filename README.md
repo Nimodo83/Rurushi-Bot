@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/45b8728bc857935d08d26.mp4" width="250" height="250" alt="sinombre913"/></a>
+<img src="https://telegra.ph/file/45b8728bc857935d08d26.mp4" width="250" height="250" alt="Nimodo83"/></a>
 
 Ya Próximamente Rurushi Ru Bot Estará En Github :)
 
