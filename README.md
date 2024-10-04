@@ -1,4 +1,5 @@
-Ya Próximamente Rurushi Ru Bot Estará En Github:)
+Ya Próximamente Rurushi Ru Bot Estará En Github :)
+
 (si eres dueño de un host y quieres a Rurushi-Bot puedes comunicarte por mi no hay problema)
 
 Contacta Con Cuervo
