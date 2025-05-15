@@ -13,3 +13,24 @@ Contacta Con Cuervo
 
 ## `CREADO POR Cuervo-Team-Supreme` 
 <a href="https://github.com/Nimodo83.png"><img src="https://qu.ax/OYDS.jpeg" width="250" height="250" alt="Nimodo83"/></a>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+
+### ✐ Cuervo-Host 
+
+<a href="https://dash.host-cuervo.shop"><img src="https://i.ibb.co/HfvW3sn1/icon.jpg" height="125px"></a>
+
+<details>
+ <summary><b>✰ Enlaces Importantes</b></summary>
+
+- **✐ Dashboard:** [`🜸 Aquí`](https://dash.host-cuervo.shop)
+- **✐ Panel:** [`🜸 Aquí`](https://panel.hostingpy.shop)
+- **✐ Canal de WhatsApp:** [`🜸 Aquí`](https://whatsapp.com/channel/0029VarQy9n2kNFzVAKReQ2V)
+- **✐ Contacto(s):** 
+[`🜸 CuervoOFC`](https://wa.me/5222722801554)
+
+</details>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
